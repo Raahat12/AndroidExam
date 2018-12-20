@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exam</string>
+    <string name="title_activity_homepage">homepage</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
